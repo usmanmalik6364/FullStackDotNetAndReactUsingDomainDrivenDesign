@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oi3MlKZtkeKVZoVkPtFfENUAC4uxbwEkIZwyMHEGMNjRVPnWiOo6oHQf9ctsbH+ZF1yNaPNv4CIFrcWl4P4dbw==",
+  "success": true,
+  "projectFilePath": "/Users/usmanmalik/Desktop/Programming/FullStackDotNetAndReactUdemy/Reactivities/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/usmanmalik/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/usmanmalik/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/usmanmalik/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/usmanmalik/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/usmanmalik/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/usmanmalik/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

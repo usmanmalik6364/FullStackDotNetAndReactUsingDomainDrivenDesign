@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1ZqQLSLa9fy35RL7C0GbtHYYyQmsKw+w07pnVOSUnZ+KDwrZCOD71/NQ6Hpnpy+9U5VCwuZgK3ndvIH7Jvpl8g==",
+  "dgSpecHash": "EAojsO0ErOa8QWJZmT/OBYqYwWfAn4x5qUNaeyDGqbDP9rgsRjSZfUiq7MaAGWs/QsumC38pr4fX4Ymff4kyuQ==",
   "success": true,
   "projectFilePath": "/Users/usmanmalik/Desktop/Programming/FullStackDotNetAndReactUdemy/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/usmanmalik/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/usmanmalik/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/usmanmalik/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/usmanmalik/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "/Users/usmanmalik/.nuget/packages/microsoft.codeanalysis.analyzers/3.3.3/microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "/Users/usmanmalik/.nuget/packages/microsoft.codeanalysis.common/4.5.0/microsoft.codeanalysis.common.4.5.0.nupkg.sha512",

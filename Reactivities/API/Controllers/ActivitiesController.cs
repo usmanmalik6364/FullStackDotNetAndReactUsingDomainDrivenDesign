@@ -1,5 +1,6 @@
 using Application.Activities;
 using Domain;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
@@ -8,9 +9,9 @@ namespace API.Controllers
     {
        
         [HttpGet]
-        public async Task<ActionResult<List<Activity>>> GetActvities(){
-
-            return await Mediator.Send(new List.Query());
+        public async Task<ActionResult<List<Activity>>> GetActvities(CancellationToken ct){
+            //very important, handles cancellation by the user.
+            return await Mediator.Send(new List.Query(),ct);
         }
 
         [HttpGet("{id}")]

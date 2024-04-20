@@ -13,6 +13,8 @@ namespace API.Extensions
             IConfiguration config){
                 services.AddIdentityCore<AppUser>(opt =>{
                     opt.Password.RequireNonAlphanumeric = true;
+                    opt.User.RequireUniqueEmail = true;
+                    
                 })
                 .AddEntityFrameworkStores<DataContext>();
                 var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("super secret key test this length should be greater so the dot net app can register it, hopefully will work now"));
